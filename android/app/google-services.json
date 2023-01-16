@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "539922454956",
+    "project_id": "myfiresttask",
+    "storage_bucket": "myfiresttask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539922454956:android:5c0aad926819d0dedf8209",
+        "android_client_info": {
+          "package_name": "com.Abs.AI.authentication_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539922454956-2gd87t8jo4pvsp6a9e4rcuhi4m4bgijv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYD-4e90ufHO0Mwlo2zs8R5dDDri4EtLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539922454956-2gd87t8jo4pvsp6a9e4rcuhi4m4bgijv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
